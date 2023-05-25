@@ -1,0 +1,3 @@
+NÉV;KOR;CÍM;FIZETÉS
+Petra;23;Érd;525000
+Xénia;24;Göd;623000
